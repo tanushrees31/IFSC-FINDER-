@@ -13,7 +13,7 @@ phpMyAdmin
 Step 1: Install XAMPP
 Download and Install XAMPP.Start Apache and MySQL, after installation, open the XAMPP Control Panel.
 Start the Apache web server and MySQL database server.
-##
+
 Step 2: Create a New Database 
 Navigate to the "Databases" tab.
 Enter a name for your new database in the "Create database" field, i.e, "bank."
