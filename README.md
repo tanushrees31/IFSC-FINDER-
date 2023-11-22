@@ -17,15 +17,20 @@ Start the Apache web server and MySQL database server.
 Step 2: Create a New Database 
 Navigate to the "Databases" tab.
 Enter a name for your new database in the "Create database" field, i.e, "bank."
+
 Step 3: Design Tables and Relationships
 Create Table:
 Click on "Create Table" to define the structure of your tables.
 Specify the columns, data types, and constraints for each table.
+
 Step 4: Insert  Data
 After creating tables, switch to the "Insert" tab in phpMyAdmin.
+
 Step 5: Write SQL Queries
 Write SQL queries to perform various operations like data retrieval, insertion, and updates.
+
 Step 6: Establish a Connection to the Database
+
 Step 7: Test the Application
 
 ### Output
