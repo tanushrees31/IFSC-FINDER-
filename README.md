@@ -3,11 +3,14 @@
 ### Introduction
 The IFSC Database Management Project is a comprehensive solution for managing information related to banking institutions, their branches, and administrative users. This project provides a structured database schema designed to handle data associated with IFSC codes, banks, cities, states, and users.
 
+ ### Architecture Diagram
+ ![WhatsApp Image 2023-11-25 at 14 48 30_776709f0](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/3ef5e02f-10b6-42a8-a98b-1cd37c174f2f)
+
 
 ### Prerequisites
-Web server
-PHP
-phpMyAdmin 
+MySQL 3.3.0
+HTML 5
+PHP 5.5.1
 
 ### Steps to be followed 
 Step 1: Install XAMPP
