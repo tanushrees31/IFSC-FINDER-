@@ -4,7 +4,8 @@
 The IFSC Database Management Project is a comprehensive solution for managing information related to banking institutions, their branches, and administrative users. This project provides a structured database schema designed to handle data associated with IFSC codes, banks, cities, states, and users.
 
  ### Architecture Diagram
-![Uploading architecture dbms.jpg…]()
+![Uploading image.png…]()
+
 
 
 ### Prerequisites
