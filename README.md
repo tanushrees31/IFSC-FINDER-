@@ -38,3 +38,11 @@ Step 7: Test the Application
 
 ### Output
 The final output is a functional database for a banking system with tables, relationships, and sample data.
+
+![Screenshot (250)](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/fab648de-b34c-49bf-8fe8-620d45d593cc)
+
+
+![Screenshot (251)](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/4b06faaf-ca20-4d05-b776-23e6d1675bbf)
+
+
+![Screenshot (252)](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/00357a07-2b9a-4e0d-b1fe-a1cb2c624218)
