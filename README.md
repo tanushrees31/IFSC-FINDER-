@@ -1,10 +1,10 @@
-## "IFSC Finder" 
+## "IFSC Finder" - a web based appication that allows  users to easily find and verify Indian Financial System Code (IFSC) codes for banks in India .
 
 ### Introduction
 The IFSC Database Management Project is a comprehensive solution for managing information related to banking institutions, their branches, and administrative users. This project provides a structured database schema designed to handle data associated with IFSC codes, banks, cities, states, and users.
 
  ### Architecture Diagram
- ![WhatsApp Image 2023-11-25 at 14 48 30_776709f0](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/3ef5e02f-10b6-42a8-a98b-1cd37c174f2f)
+![Uploading architecture dbms.jpg…]()
 
 
 ### Prerequisites
