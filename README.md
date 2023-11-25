@@ -5,7 +5,7 @@ The IFSC Database Management Project is a comprehensive solution for managing in
 
  ### Architecture Diagram
 
-![architecture dbms (1)](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/52a085b0-d3df-4842-a4ce-bc389defa871)
+![architecture dbms (1)](https://github.com/tanushrees31/IFSC-FINDER-/assets/94157726/46897ed6-c871-4565-82f9-7a2539b3e866)
 
 ### Prerequisites
 MySQL 3.3.0
