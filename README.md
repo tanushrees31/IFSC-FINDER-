@@ -27,7 +27,7 @@ Step 4: Insert  Data
 After creating tables, switch to the "Insert" tab in phpMyAdmin.
 
 Step 5: Write SQL Queries
-Write SQL queries to perform various operations like data retrieval, insertion, and updates.
+to perform various operations like data retrieval, insertion, and updates.
 
 Step 6: Establish a Connection to the Database
 
